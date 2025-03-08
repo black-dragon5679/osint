@@ -6,6 +6,8 @@ a simple osint tool for extrack metadata from any images
 
 
 uses
+
+
 1: git clone https://github.com/black-dragon5679/osint.git
 
 
