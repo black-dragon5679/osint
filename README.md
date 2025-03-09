@@ -1,5 +1,5 @@
 # osint
-a simple osint tool for extrack metadata from any images 
+a simple osint tool for extract metadata from any images 
 
 *  add photos in the images folder
 
